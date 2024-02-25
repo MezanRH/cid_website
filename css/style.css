@@ -1,0 +1,270 @@
+/* ================
+Navbar section start
+================ */
+
+.navbar .navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    color: #131313;
+}
+.navbar .navbar-brand span{
+    color: #243F93;
+}
+.navbar .navbar-nav{
+    margin-left: 70px;
+}
+.navbar .nav-link{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #131313;
+    text-transform: capitalize;
+}
+.navbar form .icon{
+    margin-right: 40px;
+    margin-top: 12px;
+}
+.navbar form .btn{
+    color: #131313;
+    padding: 10px 20px;
+    border: 1px solid #243F93;
+}
+.navbar form .btn:hover {
+    color: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #243F93;
+    background: #243F93;
+}
+
+/* ================
+Navbar section end
+================ */
+
+/* ================
+Hader section start
+================ */
+.hader {
+    margin-top: 130px;
+}
+.hader .left h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #131313;
+}
+.hader .left h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #243F93;
+    margin: 16px 0;
+    white-space: pre-line;
+}
+.hader .left h3 span{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #131313;
+    white-space: pre-line;
+}
+.hader .left p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 450px;
+}
+.hader .img{
+    display: flex;
+}
+.hader .img .img-right{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #717171;
+    margin-left: 16px;
+    width: 350px;
+    margin-top: 30px;
+}
+.hader .img .img-right span{
+    font-weight: 700;
+    font-size: 24px;
+    color: #131313;
+}
+/* ================
+Hader section end
+================ */
+
+/* ================
+Hader section end
+================ */
+.activites {
+    margin-top: 180px;
+}
+.activites h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+}
+.activites .text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 630px;
+    margin-left: 220px;
+    color: #626262;
+}
+.activites .content-text .content {
+    box-sizing: border-box;
+    padding: 20px;
+}
+.activites .content-text .content h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #717171;
+}
+.activites .content-text .content h4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #243F93;
+}
+.activites .content-text .content p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #717171;
+}
+.activites .content-text .content a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #243F93;
+}
+.activites .btn {
+    margin-left: 515px;
+    margin-top: 50px;
+}
+/* ================
+Hader section end
+================ */
+
+/* ================
+gallery section start
+================ */
+.gallery .title {
+    text-align: center;
+    margin-top: 130px;
+}
+.gallery .title h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: #243F93;
+}
+.gallery .title p{
+    width: 560px;
+    margin-left: 255px;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #626262;
+}
+/* ================
+gallery section end
+================ */
+
+/* ================
+footer section start
+================ */
+.footer {
+    margin-top: 130px;
+    background: #243F93;
+    color: #ffffff;
+}
+.footer .contant {
+    padding: 100px 0;
+}
+.footer .contant .logo h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+}
+.footer .contant .logo p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 20px 0;
+}
+.footer .contant .links h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.footer .contant .links ul{
+    list-style: none;
+}
+.footer .contant .links ul li{
+    
+    padding: 5px 0;
+}
+.footer .contant .links ul li a{
+    text-decoration: none;
+    padding-right: -30px;
+    color: #ffffff;
+    text-transform: capitalize;
+    
+}
+.footer .contant .depardment {
+    margin-top: 60px;
+}
+.footer .contant .depardment ul{
+    list-style: none;
+}
+.footer .contant .depardment ul li{
+    
+    padding: 5px 0;
+}
+.footer .contant .depardment ul li a{
+    text-decoration: none;
+    padding-right: -30px;
+    color: #ffffff;
+    
+}
+.location {
+    margin-top: 60px;
+}
+.location h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.location h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 30px 0;
+}
+.location form{
+    display: flex;
+}
+.location form input{
+    background: none;
+    border: 1px solid #ffffff;
+}
+.location form input::placeholder{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #7491ED;
+}
+.location form .btn{
+    background: #ED1C24;
+    padding: 10px;
+    border-radius: 0;
+    color: #ffffff;
+}
+/* ================
+footer section end
+================ */
